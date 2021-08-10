@@ -69,11 +69,11 @@ const customtheme = createTheme({
     },
     MuiTypography:{
       body1:{
-        fontFamily: "Montserrat",
+        fontFamily: "Graphik",
         fontWeight: "bolder",
       },
       body2:{
-        fontFamily: "Montserrat",
+        fontFamily: "Graphik",
         fontWeight: "bolder",
       },
     },
@@ -142,9 +142,9 @@ const customtheme = createTheme({
     
   },
   typography: {
-    fontFamily: 'Montserrat',
+    fontFamily: 'Graphik',
     subtitle1:{
-      fontFamily: 'Montserrat',
+      fontFamily: 'Graphik',
       fontSize: '16px',
       fontWeight: 500,
       fontStretch: 'normal',
@@ -153,7 +153,7 @@ const customtheme = createTheme({
       letterSpacing: '0.1px',
     },
     body2:{
-      fontFamily: 'Montserrat',
+      fontFamily: 'Graphik',
       fontSize: '14px',
       fontWeight: 'normal',
       fontStretch: 'normal',
@@ -162,7 +162,7 @@ const customtheme = createTheme({
       letterSpacing: '0.1px',
     },
     body3:{
-      fontFamily: 'Montserrat',
+      fontFamily: 'Graphik',
       fontSize: '10000px',
       fontWeight: 600,
       fontStretch: 'normal',
@@ -172,7 +172,7 @@ const customtheme = createTheme({
       color:'#19293b'
     },
     caption:{
-      fontFamily: 'Montserrat',
+      fontFamily: 'Graphik',
       fontSize: '12px',
       fontWeight: 500,
       fontStretch: 'normal',
@@ -183,7 +183,7 @@ const customtheme = createTheme({
 
     h1:{
       //paragraph
-      fontFamily : 'Montserrat',
+      fontFamily : 'Graphik',
         color : '#5f7381',
         fontSize : '14px',
         lineHeight : 1.57,
@@ -193,7 +193,7 @@ const customtheme = createTheme({
     },
     h2:{
       //headers
-      fontFamily : 'Montserrat',
+      fontFamily : 'Graphik',
       color : '#19293b',
       fontSize : '16px',
       lineHeight : 1.5,
@@ -203,7 +203,7 @@ const customtheme = createTheme({
   
     h3: {
         fontSize : '18px',
-        fontFamily : 'Montserrat',
+        fontFamily : 'Graphik',
         fontWeight : '500',
         color : '#324552',
         lineHeight : 1.33,
@@ -212,7 +212,7 @@ const customtheme = createTheme({
         letterSpacing : '0.2px'
     },
     h4:{
-        fontFamily : 'Montserrat',
+        fontFamily : 'Graphik',
         color : '#5f7381',
         fontSize : '12px',
         lineHeight : 1.33,
@@ -220,7 +220,7 @@ const customtheme = createTheme({
         textAlign:'left',
     },
     h5: {
-      fontFamily : 'Montserrat',
+      fontFamily : 'Graphik',
       fontSize : '12px',
       fontWeight : 500,
       color : '#19293b',
@@ -245,7 +245,7 @@ const customtheme = createTheme({
       fontWeight : '500',
       color : '#5ac568',
       textTransform: 'none',
-      fontFamily : 'Montserrat',
+      fontFamily : 'Graphik',
       gap:'100px',
     },
   },
@@ -360,11 +360,11 @@ export default customtheme;
 //     },
 //     MuiTypography:{
 //       body1:{
-//         fontFamily: "Montserrat",
+//         fontFamily: "Graphik",
 //         fontWeight: "bolder",
 //       },
 //       body2:{
-//         fontFamily: "Montserrat",
+//         fontFamily: "Graphik",
 //         fontWeight: "bolder",
 //       },
 //     },
@@ -433,9 +433,9 @@ export default customtheme;
     
 //   },
 //   typography: {
-//     fontFamily: 'Montserrat',
+//     fontFamily: 'Graphik',
 //     subtitle1:{
-//       fontFamily: 'Montserrat',
+//       fontFamily: 'Graphik',
 //       fontSize: '16px',
 //       fontWeight: 500,
 //       fontStretch: 'normal',
@@ -444,7 +444,7 @@ export default customtheme;
 //       letterSpacing: '0.1px',
 //     },
 //     body2:{
-//       fontFamily: 'Montserrat',
+//       fontFamily: 'Graphik',
 //       fontSize: '14px',
 //       fontWeight: 'normal',
 //       fontStretch: 'normal',
@@ -453,7 +453,7 @@ export default customtheme;
 //       letterSpacing: '0.1px',
 //     },
 //     body3:{
-//       fontFamily: 'Montserrat',
+//       fontFamily: 'Graphik',
 //       fontSize: '10000px',
 //       fontWeight: 600,
 //       fontStretch: 'normal',
@@ -463,7 +463,7 @@ export default customtheme;
 //       color:'#19293b'
 //     },
 //     caption:{
-//       fontFamily: 'Montserrat',
+//       fontFamily: 'Graphik',
 //       fontSize: '12px',
 //       fontWeight: 500,
 //       fontStretch: 'normal',
@@ -474,7 +474,7 @@ export default customtheme;
 
 //     h1:{
 //       //paragraph
-//       fontFamily : 'Montserrat',
+//       fontFamily : 'Graphik',
 //         color : '#5f7381',
 //         fontSize : '14px',
 //         lineHeight : 1.57,
@@ -484,7 +484,7 @@ export default customtheme;
 //     },
 //     h2:{
 //       //headers
-//       fontFamily : 'Montserrat',
+//       fontFamily : 'Graphik',
 //       color : '#19293b',
 //       fontSize : '16px',
 //       lineHeight : 1.5,
@@ -494,7 +494,7 @@ export default customtheme;
   
 //     h3: {
 //         fontSize : '18px',
-//         fontFamily : 'Montserrat',
+//         fontFamily : 'Graphik',
 //         fontWeight : '500',
 //         color : '#324552',
 //         lineHeight : 1.33,
@@ -503,7 +503,7 @@ export default customtheme;
 //         letterSpacing : '0.2px'
 //     },
 //     h4:{
-//         fontFamily : 'Montserrat',
+//         fontFamily : 'Graphik',
 //         color : '#5f7381',
 //         fontSize : '12px',
 //         lineHeight : 1.33,
@@ -511,7 +511,7 @@ export default customtheme;
 //         textAlign:'left',
 //     },
 //     h5: {
-//       fontFamily : 'Montserrat',
+//       fontFamily : 'Graphik',
 //       fontSize : '12px',
 //       fontWeight : 500,
 //       color : '#19293b',
@@ -536,7 +536,7 @@ export default customtheme;
 //       fontWeight : '500',
 //       color : '#5ac568',
 //       textTransform: 'none',
-//       fontFamily : 'Montserrat',
+//       fontFamily : 'Graphik',
 //       gap:'100px',
 //     },
 //   },

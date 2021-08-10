@@ -14,7 +14,7 @@ const Template = (args) => <Mybutton {...args} />;
 export const Primary = Template.bind({});
 Primary.args = {
  variant:"contained",
- text:"Hi",
+ text:"BUY/SELL",
  color:"primary",
 };
 
